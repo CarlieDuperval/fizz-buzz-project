@@ -18,3 +18,6 @@ const fizzbuzz = (n) =>{
 }
 console.log(fizzbuzz(15))
 
+
+
+
